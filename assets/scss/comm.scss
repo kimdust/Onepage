@@ -76,14 +76,12 @@ body {
     width: 50%;
     padding: 30px;
     font-size: 18px;
-    overflow-y: auto;
     h2 {
       font-size: 50px;
       font-weight: 700;
     }
-    .intro_txt {
-      padding: 20px 0 70px 0;
-      font-size: 24px;
+    h3 {
+      padding-bottom: 30px;
     }
     ul {
       .info_1depth {
@@ -96,7 +94,7 @@ body {
     }
     .last_txt {
       font-size: 30px;
-      padding-top: 70px;
+      padding-top: 20px;
       strong {
         font-weight: 700;
       }

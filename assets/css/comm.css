@@ -335,15 +335,13 @@ body {
   width: 50%;
   padding: 30px;
   font-size: 18px;
-  overflow-y: auto;
 }
 #info .info_txt h2 {
   font-size: 50px;
   font-weight: 700;
 }
-#info .info_txt .intro_txt {
-  padding: 20px 0 70px 0;
-  font-size: 24px;
+#info .info_txt h3 {
+  padding-bottom: 30px;
 }
 #info .info_txt ul .info_1depth {
   font-weight: 700;
@@ -354,7 +352,7 @@ body {
 }
 #info .info_txt .last_txt {
   font-size: 30px;
-  padding-top: 70px;
+  padding-top: 20px;
 }
 #info .info_txt .last_txt strong {
   font-weight: 700;
